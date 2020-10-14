@@ -1,0 +1,65 @@
+.nav-container{
+  background-color:rgb(26, 84, 107);
+}
+.content{
+    background-image: url("../images/900px\ x\ 500px.png");
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content img{
+    width: 100%;
+}
+.header{
+  /* border: solid; */
+  padding-top: 150px;
+  padding-left: 90px;
+}
+.btn1{
+  background-color: rgb(26, 84, 107);
+  outline: none;
+  cursor: pointer;
+ margin-left: 70px;
+}
+
+/* ABOUT CSS */
+.content2{
+  background-image: url("../images/Untitled\ design\ \(19\).png");
+  width: 100%;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.content2 img{
+  width: 100%;
+}
+.header2 h1{
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(26, 84, 107);
+}
+.mission h1{
+  text-align: center;
+  color: rgb(26, 84, 107);
+}
+.mission{
+  padding-top: 20px;
+  height: 70px;
+ 
+}
+.mission img{
+  width: 100%;
+ 
+}
+
+/* STARTED STYLING */
+.first h2{
+  color: rgb(26, 84, 107);
+}
+.second h2{
+  color: rgb(26, 84, 107);
+}
+.third h2{
+  color: rgb(26, 84, 107);
+}
