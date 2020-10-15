@@ -63,3 +63,13 @@
 .third h2{
   color: rgb(26, 84, 107);
 }
+
+
+/* CONTACT STYLING */
+.main{
+  background-image: url("../images/Untitled\ design\ \(25\).png");
+  width: 100%;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
